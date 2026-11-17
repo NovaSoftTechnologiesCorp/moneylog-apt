@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Tue, 17 Nov 2026 19:35:27 +0000
+Description: MoneyLog para Linux
+Label: MoneyLog
+Origin: MoneyLog
+Suite: stable
+MD5Sum:
+ 5afca61e2047ed3ce97d4b43db9af247              173 Release
+ 08b27449a84ba81b31619434047c4692             1386 main/binary-amd64/Packages
+ 20fb7bc20be107a7fe34f9d6af4a73f5              826 main/binary-amd64/Packages.gz
+SHA1:
+ 7cb54e647039f55dfab399c6c73be35693c33a29              173 Release
+ 75ee6589adfaf6ebd3a3e50ddaca4c8ff3b46aff             1386 main/binary-amd64/Packages
+ 37e97a3eff2de354aa9bafacb84af523702b4596              826 main/binary-amd64/Packages.gz
+SHA256:
+ d9703d3b06da4e9055d83429591d47ef1c9ef41c6da46c65517fb7432043b420              173 Release
+ 32885a86ea52f2a7580e26f2203968cdb1ba7d41129f3c415465b7c19975f653             1386 main/binary-amd64/Packages
+ 2939fd956d188994d886d04e2afe1f184451df6985ca8fba3d2938194f5d7212              826 main/binary-amd64/Packages.gz
+SHA512:
+ 78bfd110c251c848c3fd5fb07757577b0dc4d57af3f55d149619a576e0c0a8f06ce4f8e4a2dd85ea266caa967f8e920468f8ed2298cdbd7064765d8070d9306a              173 Release
+ 80cebbb5393a01a03516e57351ece8e9f97996deed2f8915ba5d8664d94530ca9a23aeeceb01d72784f2d7bb1c233be4df102c6b4aed192de6a96647b1723ecf             1386 main/binary-amd64/Packages
+ e43d11f1c3e9eebe1adfcef7112c1cf181dcbdbeef9612f6b898e6c2823eec3b584dafe91fd83465782b00b01fae3e2dbb4c2c92545f8edbee5de9edf1380485              826 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEJDAN7ADZZO/J61Sv+Vh+WShes6oFAmr8rH8ACgkQ+Vh+WShe
+s6ow4xAAj7SwCBjWNgFPbtCsdM2YiPkwl88OXA2QfewP0Sj1TL8qrInkEakZnaV9
+pKqOwKCO/i7aaQ3+PewWCcLVeTUjBcMMOlyCgDm0GGNgu/t2xa577/Eq/mda2bKU
+2gSyaurx4dpu7GL5SF8gucXTiJmXbzL5ftx6ID+jsFSyoGgf4xbBhcX1oBiLT0j8
+mlHEBuaTsY7uSpPG4ItUU1pGJ6lsbObhBF8dP4mdjNo8Au36iDUvyJ4OMzQ81bSA
+dul9HL32mLUdWdQffi6PraSC20akEexpwGD1+q50FleOYk/2zCFFeZul2JbjRX39
+L1nxCnG9KLuMzzSdAay5S3aY6evf6mDSKt1i5Pbv/I1qU/7x2RQHhLFtkNzxHHSb
+EJellG4V+kmypXfVdDTchPRAi9mL21Dt2J5z6gE+YsObVMEbOhS+FtI9sQPFRFNC
+doMFiWi0y7GpBhoLOwZJHLzoR/bO71EyXmUktLHKxMurPtiD1Xxyez2ZcOZ54Ryc
+0zj7tErNbm6KuROuRRlZh1g5FKc+KgMaAHMIyo0nyEiaDTQXnbWJcnU1yYBvRo3X
+wJ5/ImKYmCpNl2k5Qgi2s8bd7kvOoIbkEsxIg+oA37yLKLnefHnPKd8hfcLOGd28
+rmO+R2mAbLbDawM9vN4dQMh1bPQLTOHjtgYwccGTP9A5z1e+1Q8=
+=sIZz
+-----END PGP SIGNATURE-----
