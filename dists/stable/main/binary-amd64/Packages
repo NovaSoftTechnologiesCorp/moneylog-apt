@@ -19,3 +19,24 @@ Description: MoneyLog, ingresos y gastos de tus negocios
  por organización, categorías, tu moneda (PEN/USD/EUR) y comprobantes o
  documentos adjuntos a cada movimiento.
 
+Package: moneylog
+Architecture: amd64
+Version: 2.0.1+36.4
+Priority: optional
+Section: office
+Maintainer: NovaSoft Technologies <dev@novasoftcorp.com>
+Installed-Size: 30408
+Depends: libatk1.0-0t64 (>= 2.7.91), libc6 (>= 2.34), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.14.0), libepoxy0 (>= 1.0), libfontconfig1 (>= 2.12.6), libgcc-s1 (>= 3.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0t64 (>= 2.79.0), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.6.0), libgtk-3-0t64 (>= 3.21.4), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.29.4), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 11), zlib1g (>= 1:1.1.4), gstreamer1.0-plugins-base, gstreamer1.0-plugins-good
+Recommends: pulseaudio-utils, xdg-utils
+Filename: pool/main/m/moneylog/moneylog_2.0.1+36.4_amd64.deb
+Size: 10095170
+MD5sum: 8a12a29ed86a7d2503c1332140ad8b97
+SHA1: e3a45a9017dd05157a9a8985fbda2145000f84c2
+SHA256: cd700dca2c442bce42e9d2d1977a4319600b8fc552c5b01fe0a7fe792f8efb8b
+SHA512: f8b3e2a944d4255da6d5f53f82afdc6212dc326c995ebc6c1407c7716cc559d7e721dcfdfad91ead6b63978b1cc15aa22c18677347d23c2013c2b44f6fb97893
+Homepage: https://getmoneylog.com
+Description: MoneyLog, ingresos y gastos de tus negocios
+ Registra ingresos y gastos en varias organizaciones, con miembros y roles
+ por organización, categorías, tu moneda (PEN/USD/EUR) y comprobantes o
+ documentos adjuntos a cada movimiento.
+
