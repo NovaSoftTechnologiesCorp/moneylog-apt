@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Wed, 18 Nov 2026 21:55:23 +0000
+Date: Wed, 18 Nov 2026 22:36:00 +0000
 Description: MoneyLog para Linux
 Label: MoneyLog
 Origin: MoneyLog
 Suite: stable
 MD5Sum:
- 1a1c737b4254e68c14b2ffc3ec78517c              173 Release
- 7307b27e6b381be2a288a0c96445bad8             2772 main/binary-amd64/Packages
- a5af4a5050ec4e5c6912b3b4f7768e3c             1038 main/binary-amd64/Packages.gz
+ d1fb3517e0e31973fb3eb897bfe14443              173 Release
+ 3bd465d87680a18f4c7745651688125a             4160 main/binary-amd64/Packages
+ ab0c1c7cf5def3889e5a0d8189a7fd25             1242 main/binary-amd64/Packages.gz
 SHA1:
- a2c9db350f96d7d93515bbf3daab1fa1f396070b              173 Release
- 5ad5a3be070479de572e80579d8676cf592b2fb6             2772 main/binary-amd64/Packages
- 5099e4accfd3bcec43931a2293f9e90109ebd918             1038 main/binary-amd64/Packages.gz
+ 6776c74e9af1098832ecf3f2befecfae7f8ebf96              173 Release
+ f555184ae8df9ae9cbb85923199037d39d22c8a5             4160 main/binary-amd64/Packages
+ 968412ed14fa6a46a6613455d1c9ba973abe021c             1242 main/binary-amd64/Packages.gz
 SHA256:
- a97d54ddd28ce2121c382adbeaa3ebca127a3d68dfb6ff68913340abe688f660              173 Release
- d5f4e7d479c28e40c128c0c26df560e156c0b4453c3b0ad73544eb49f76a6ebe             2772 main/binary-amd64/Packages
- a5bbc25e32ef5341c4178a6e19d0a307d97968b85636e3c129d4c836d6cb1fdd             1038 main/binary-amd64/Packages.gz
+ 414de1cc85bb4b1124b3c0168b614107c65afdf0e32dc18c5068fd72c00d7e9f              173 Release
+ c4f6e7f409aadfe8548e00f84d6d923020d62c64ab8f4e5ada8ec4a6084fb775             4160 main/binary-amd64/Packages
+ be8cb705ce5a2f125ff548334b40d0e0253ecb3e4db1e9e0509f1c13a5c019fc             1242 main/binary-amd64/Packages.gz
 SHA512:
- 1fc2374f031446600a6ba71cbab83e1fc8be59b63fa7d762008e334770bbc8372217fb9bc20d389d8c6f9849359790d7d621b9f2841a53039107877028ccf587              173 Release
- aee14a65f8d195167df83c3ae57b5f65bcb47bd13a3166ce90208205a2901cb2003c09580e9bb1022713f247608fbcc2694ba8109434c2522d00d121fe64f096             2772 main/binary-amd64/Packages
- 7bac28fce471a107457084ba38342ac39c9f2519aaeb6e14a91c20c34696c6fcdcdb4170d01b95144efadb0ff3785406084ff5a5e03a86ac7f490700840616a0             1038 main/binary-amd64/Packages.gz
+ fde883fc4a2c67aaa0ff4d33253a1fc8bf9ceb6c8be816bf8594b9b846d52a4bb8993bbce92a3f1f811e627819b0d569cca60f5e4b2f2de4d196fd83c878f183              173 Release
+ e948bcd564b7cb3d9239bf509780181e8504d8c9b2c46fdb6118ad4e01d95e4620a8485269fd6fd37a4b4b27789b7e86722690a9302f2177aa144e98f7e5ec95             4160 main/binary-amd64/Packages
+ 4f23562b50571b4296d6fc0617b7701e3fc684a718f3e2e236d227daee662f8c7c1496d359c4d2643caecf5b97a7988274013cbfd3c51768a81d50f332f9fafe             1242 main/binary-amd64/Packages.gz
